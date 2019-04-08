@@ -1,0 +1,4 @@
+#Fri Apr 05 17:16:03 EAT 2019
+base.0=/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

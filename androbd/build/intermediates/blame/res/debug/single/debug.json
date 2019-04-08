@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_head_up.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/head_up.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_headup.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-ldpi/ic_headup.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_speedometer.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-ldpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_headup.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-hdpi/ic_headup.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_daynight.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-ldpi/ic_daynight.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_chart.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-mdpi/ic_chart.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_obd_gauge.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/obd_gauge.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_obd_item.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/obd_item.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_speedometer.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xhdpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/plugin/build/intermediates/packaged_res/debug/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_startup_layout.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/startup_layout.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_scale.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxhdpi/ic_scale.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_daynight.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-hdpi/ic_daynight.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_action_connect.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable-xxhdpi/action_connect.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_load.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable-xxhdpi/ic_action_load.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_filter.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-mdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_filter.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxhdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_filter.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable_activated_background.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable/activated_background.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_chart.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_chart.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_headup.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_headup.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_obd_list.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/obd_list.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_scale.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-hdpi/ic_scale.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_action_disconnect.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable-xxhdpi/action_disconnect.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_coin.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_coin.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_headup.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxhdpi/ic_headup.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_chart.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_chart.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_filter.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_filter.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_dashboard.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/dashboard.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_chart.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-ldpi/ic_chart.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_speedometer.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-mdpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_speedometer.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_speedometer.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_daynight.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxhdpi/ic_daynight.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_coin.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-mdpi/ic_coin.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/menu_chart.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/menu/chart.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_plugininfo.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/plugin/build/intermediates/packaged_res/debug/layout/plugininfo.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_filter.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xhdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_coin.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-hdpi/ic_coin.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_scale.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xhdpi/ic_scale.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_dashboard.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable-xxhdpi/dashboard.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_speedometer.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_coin.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxhdpi/ic_coin.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_headup.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xhdpi/ic_headup.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_chart.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-hdpi/ic_chart.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_speedometer.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-hdpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/xml_settings.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable_mil_on.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable/mil_on.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/menu_context_graph.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/menu/context_graph.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chart.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxhdpi/ic_chart.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_coin.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xhdpi/ic_coin.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_scale.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_scale.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_daynight.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_daynight.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chart.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xhdpi/ic_chart.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable_dashboard.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable/dashboard.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_daynight.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_daynight.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable_backgroundg.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable/backgroundg.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/layout_usb_list.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/layout/usb_list.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_headup.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-mdpi/ic_headup.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_daynight.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xhdpi/ic_daynight.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_scale.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-mdpi/ic_scale.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_coin.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-ldpi/ic_coin.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_scale.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_scale.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable_btnshapes.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/drawable/btnshapes.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_speedometer.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxhdpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_headup.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_headup.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_daynight.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-mdpi/ic_daynight.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_scale.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-ldpi/ic_scale.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_filter.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-ldpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_coin.xml.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_coin.xml"
+    },
+    {
+        "merged": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_filter.png.flat",
+        "source": "/home/fidel/Desktop/AndrOBD/androbd/build/generated/res/pngs/debug/drawable-hdpi/ic_filter.png"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fidel/Desktop/AndrOBD/androbd/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kab/values-kab.xml",
+            "map": [
+                {
+                    "source": "/home/fidel/Desktop/AndrOBD/androbd/src/main/res/values-b+kab/strings.xml",
+                    "from": {
+                        "startLines": "7,2,6,5,11,8,9,10,12,13,4,3,1",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,11",
+                        "startOffsets": "474,120,381,342,686,522,571,623,734,805,282,229,50",
+                        "endColumns": "47,108,92,38,47,48,51,62,70,46,59,52,76",
+                        "endOffsets": "517,224,469,376,729,566,618,681,800,847,337,277,115"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,212,305,344,392,441,493,556,627,674,734,787",
+                        "endColumns": "47,108,92,38,47,48,51,62,70,46,59,52,69",
+                        "endOffsets": "98,207,300,339,387,436,488,551,622,669,729,782,852"
+                    }
+                }
+            ]
+        }
+    ]
+}
