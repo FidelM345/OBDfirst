@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+
+    android:layout_margin="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+
+        android:layout_marginTop="14dp"
+        android:textColor=" #FFFFFF"
+        android:textSize="16sp"
+        android:id="@+id/fault_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fault Code:" />
+
+    <TextView
+        android:textSize="16sp"
+        android:id="@+id/fault_desc"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description:" />
+
+    <TextView
+        android:textColor=" #FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:id="@+id/part_name"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Part Name:" />
+
+</LinearLayout>

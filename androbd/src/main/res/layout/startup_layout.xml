@@ -9,6 +9,7 @@
     >
 
     <Button
+        android:onClick="obd_data"
         android:id="@+id/obd_data"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -24,6 +25,7 @@
         />
 
     <Button
+        android:onClick="pending_fault"
         android:id="@+id/pending_faultcodes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -39,6 +41,7 @@
         />
 
     <Button
+        android:onClick="clear_fault"
         android:id="@+id/clear_faultcodes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

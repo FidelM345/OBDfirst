@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b29f6846-e309-4cc2-b8ca-9e4069d39321" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Pavilion_Desktop_OBDfirst_OBDfirst_androbd_libs_achartengine_1_2_0_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Pavilion_Desktop_OBDfirst_OBDfirst_androbd_libs_usbSerialForAndroid_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_loopj_android_android_async_http_1_4_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cz_msebera_android_httpclient_4_3_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/CarFailuresModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androbd/src/main/res/layout/pending_faults.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/androbd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/androbd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/generated/res/resValues/debug/values/generated.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/generated/res/resValues/debug/values/generated.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/generated/source/buildConfig/debug/com/fr3ts0n/ecu/gui/androbd/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/generated/source/buildConfig/debug/com/fr3ts0n/ecu/gui/androbd/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-be.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-be.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ckb.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ckb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-cs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-da.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-da.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-de.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-es.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-he.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-he.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-hu.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-hu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-kab.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-kab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-pl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-sr.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-sr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-sv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-uk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/E_g3HweK5ZxFut1G7aVPWoOv_do=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OBdBh0p11siOgZPdiCBVXOwRJ40=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XJgXQy_B2JPOGkY3dI29aPfa2S0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_hazNMHPgL+cY0H4MlAwfwZAxXI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/E_g3HweK5ZxFut1G7aVPWoOv_do=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/OBdBh0p11siOgZPdiCBVXOwRJ40=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/XJgXQy_B2JPOGkY3dI29aPfa2S0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/_hazNMHPgL+cY0H4MlAwfwZAxXI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/Hq0GqcrOsYn1+rGH_gWZsseGAEk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/Rp0Fy4FLPBXcgBjii9sY5k5IXmg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_chart.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_chart.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_coin.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_coin.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_daynight.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_daynight.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_filter.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_filter.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_headup.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_headup.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_scale.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_scale.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_speedometer.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_speedometer.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_chart.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_chart.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_coin.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_coin.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_daynight.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_daynight.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_filter.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_filter.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_headup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_headup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_scale.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_scale.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_speedometer.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-hdpi_ic_speedometer.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_chart.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_chart.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_coin.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_coin.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_daynight.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_daynight.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_filter.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_filter.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_headup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_headup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_scale.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_scale.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_speedometer.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-ldpi_ic_speedometer.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_chart.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_chart.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_coin.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_coin.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_daynight.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_daynight.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_filter.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_filter.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_headup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_headup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_scale.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_scale.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_speedometer.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-mdpi_ic_speedometer.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chart.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chart.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_coin.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_coin.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_daynight.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_daynight.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_filter.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_filter.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_headup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_headup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_scale.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_scale.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_speedometer.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xhdpi_ic_speedometer.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_action_connect.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_action_connect.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_action_disconnect.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_action_disconnect.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_dashboard.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_dashboard.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_load.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_load.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chart.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chart.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_coin.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_coin.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_daynight.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_daynight.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_filter.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_filter.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_headup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_headup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_scale.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_scale.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_speedometer.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_speedometer.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_chart.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_chart.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_coin.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_coin.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_daynight.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_daynight.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_filter.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_filter.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_headup.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_headup.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_scale.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_scale.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_speedometer.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_speedometer.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_activated_background.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_activated_background.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_backgroundg.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_backgroundg.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_btnshapes.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_btnshapes.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_dashboard.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_dashboard.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_logo.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_logo.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_mil_on.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/drawable_mil_on.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_content_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_content_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_dashboard.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_dashboard.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_device_list.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_device_list.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_device_name.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_device_name.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_head_up.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_head_up.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_obd_gauge.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_obd_gauge.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_obd_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_obd_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_obd_list.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_obd_list.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_plugininfo.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_plugininfo.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_startup_layout.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_startup_layout.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_usb_list.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/layout_usb_list.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/menu_chart.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/menu_chart.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/menu_context_graph.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/menu_context_graph.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/menu_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/menu_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ckb_values-ckb.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ckb_values-ckb.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-he_values-he.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-he_values-he.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-kab_values-kab.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-kab_values-kab.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/xml_device_filter.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/xml_device_filter.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/xml_settings.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/merged/debug/xml_settings.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/11.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/13.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/13.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/16.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/16.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/18.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/18.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/19.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/19.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/androbd/plugin/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/androbd/plugin/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/androbd/plugin/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/androbd/plugin/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/androbd/plugin/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/AutoHider.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/BtCommService$BtConnectThread.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/BtCommService$BtWorkerThread.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/BtCommService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/BtDeviceListActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/BtDeviceListActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ChartActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ChartActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ChartActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/CheckableRelativeLayout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/CommService$MEDIUM.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/CommService$STATE.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/CommService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/DashBoardActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/DashBoardActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/DashBoardActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/DfcItemAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ExportTask.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/FileHelper$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/FileHelper$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/FileHelper.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$10.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$7.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$8.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$9.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$DATA_VIEW_MODE.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$MODE.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity$PRESELECT.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/MirrorRelativeLayout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/NetworkCommService$ConnectThread.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/NetworkCommService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ObdGaugeAdapter$ViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ObdGaugeAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ObdItemAdapter$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/ObdItemAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$array.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$menu.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$mipmap.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R$xml.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/Screenshot.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/SettingsActivity$PrefsFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/SettingsActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/UsbCommService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/UsbCommService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/UsbDeviceListActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/UsbDeviceListActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/UsbDeviceListActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/UsbDeviceListActivity$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/UsbDeviceListActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/20/com/fr3ts0n/ecu/gui/androbd/VidItemAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/DfcItemAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/DfcItemAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androbd/src/main/res/layout/startup_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androbd/src/main/res/layout/startup_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/classes/java/main/com/fr3ts0n/ecu/Conversions.class" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/classes/java/main/com/fr3ts0n/ecu/Conversions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/libs/library-1.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/libs/library-1.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/library/library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/plugin.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OBDfirst" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1057341680">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="java" value="11" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="11" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="1" />
+          <entry key="java" value="621" />
+          <entry key="xml" value="185" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="621" />
+          <entry key="XML" value="185" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/DfcItemAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1282">
+              <caret line="225" column="38" selection-start-line="225" selection-start-column="38" selection-end-line="225" selection-end-column="38" />
+              <folding>
+                <element signature="e#2406#2407#0" expanded="true" />
+                <element signature="e#2432#2433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="2894" column="25" selection-start-line="2894" selection-start-column="25" selection-end-line="2894" selection-end-column="25" />
+              <folding>
+                <element signature="e#118450#118451#0" expanded="true" />
+                <element signature="e#118512#118513#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/obd_item.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/pending_faults.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/ObdItemAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/CarFailuresModel.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="582" selection-start-line="582" selection-end-line="582" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/usb_list.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/startup_layout.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ObdProt</find>
+      <find>IndexedProcessVar</find>
+      <find>REset</find>
+      <find>connectBtDevice</find>
+      <find>List</find>
+      <find>mListView</find>
+      <find>mDfcAdapter</find>
+      <find>tvDescr</find>
+      <find>FID_DESCRIPT</find>
+      <find>contents</find>
+      <find>obd_item</find>
+      <find>obdService</find>
+      <find>onClick</find>
+      <find>faulCodeButtons</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/androbd/build.gradle" />
+        <option value="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/CarFailuresModel.java" />
+        <option value="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/ObdItemAdapter.java" />
+        <option value="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/DfcItemAdapter.java" />
+        <option value="$PROJECT_DIR$/androbd/src/main/res/layout/pending_faults.xml" />
+        <option value="$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/MainActivity.java" />
+        <option value="$PROJECT_DIR$/androbd/src/main/res/layout/startup_layout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="67" />
+    <option name="y" value="32" />
+    <option name="width" value="639" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OBDfirst" type="1abcf292:AndroidViewProjectNode" />
+              <item name="androbd" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="OBDfirst" type="1abcf292:AndroidViewProjectNode" />
+              <item name="androbd" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="OBDfirst" type="1abcf292:AndroidViewProjectNode" />
+              <item name="androbd" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="androbd" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OBDfirst" type="1abcf292:AndroidViewProjectNode" />
+              <item name="androbd" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="OBDfirst" type="1abcf292:AndroidViewProjectNode" />
+              <item name="androbd" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="OBDfirst" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="192.168.214.101:5555" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OBDsecond" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fr3ts0n.ecu.gui.androbd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="androbd" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="androbd" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b29f6846-e309-4cc2-b8ca-9e4069d39321" name="Default Changelist" comment="" />
+      <created>1554700566615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554700566615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.1738255" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" sideWeight="0.49932885" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067115" side_tool="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32907802" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Preview" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/DfcItemAdapter.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/MainActivity.java</url>
+          <line>587</line>
+          <properties class="com.fr3ts0n.ecu.gui.androbd.MainActivity">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="5578" column="16" selection-start-line="5578" selection-start-column="16" selection-end-line="5578" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/app/ListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="260" column="16" selection-start-line="260" selection-start-column="16" selection-end-line="260" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/CarFailuresModel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/fr3ts0n/ecu/EcuCodeItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/fr3ts0n/pvs/IndexedProcessVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/ObdItemAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/obd_item.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="2894" column="25" selection-start-line="2894" selection-start-column="25" selection-end-line="2894" selection-end-column="25" />
+          <folding>
+            <element signature="e#118450#118451#0" expanded="true" />
+            <element signature="e#118512#118513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/DfcItemAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1282">
+          <caret line="225" column="38" selection-start-line="225" selection-start-column="38" selection-end-line="225" selection-end-column="38" />
+          <folding>
+            <element signature="e#2406#2407#0" expanded="true" />
+            <element signature="e#2432#2433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/pending_faults.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/usb_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/java/com/fr3ts0n/ecu/gui/androbd/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="582" selection-start-line="582" selection-end-line="582" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androbd/src/main/res/layout/startup_layout.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

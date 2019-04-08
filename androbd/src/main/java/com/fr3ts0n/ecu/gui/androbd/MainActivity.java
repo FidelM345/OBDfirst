@@ -338,6 +338,7 @@ public class MainActivity extends PluginManager
 
 
 		mVidAdapter = new VidItemAdapter(this, R.layout.obd_item, ObdProt.VidPvs);
+
 		mDfcAdapter = new DfcItemAdapter(this, R.layout.obd_item, ObdProt.tCodes);
 
 
@@ -384,7 +385,7 @@ public class MainActivity extends PluginManager
 		pending_fault=findViewById(R.id.pending_faultcodes);
 		clear_fault=findViewById(R.id.clear_faultcodes);
 
-		faulCodeButtons();
+	//	faulCodeButtons();
 
 		// override comm medium with USB connect intent
 		if ("android.hardware.usb.action.USB_DEVICE_ATTACHED".equals(getIntent().getAction()))
@@ -561,7 +562,30 @@ public class MainActivity extends PluginManager
 
 	//buttons for dealing with fault codes
 
-	void faulCodeButtons(){
+
+	void obd_data( View v){
+
+		setObdService(ObdProt.OBD_SVC_DATA,"OBD DATA");
+
+	}
+
+
+	void pending_fault( View v){
+
+		setObdService(ObdProt.OBD_SVC_PENDINGCODES, "Pending Fault Codes");
+
+	}
+
+	void clear_fault( View v){
+
+		clearObdFaultCodes();
+		setObdService(ObdProt.OBD_SVC_READ_CODES, "Clear Fault Codes");
+
+	}
+
+
+
+	/*void faulCodeButtons(){
 
 
 
@@ -590,7 +614,7 @@ public class MainActivity extends PluginManager
 			}
 		});
 
-	}
+	}*/
 
 
 	/**
@@ -1796,6 +1820,8 @@ public class MainActivity extends PluginManager
 		Toast.makeText(MainActivity.this,"The Selections have been reset",Toast.LENGTH_LONG).show();
 		for(PRESELECT selection : PRESELECT.values())
 			prefs.edit().remove(selection.toString()).apply();
+
+
 	}
 
 	/**
